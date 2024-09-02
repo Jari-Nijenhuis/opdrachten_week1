@@ -27,5 +27,23 @@
     <ClCompile Include="1.4.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1.5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1.6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1.7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1.8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1.9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1.10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
