@@ -8,7 +8,7 @@ void main()
 	printf("Geeft drie waarden:\n");
 	scanf("%d %d %d", &a, &b, &c);
 	
-	a = (a +b +c) / 3;
+	a = ( a + b + c ) / 3;
 	
 	printf("Het gemiddelde is %d", a);
 	
