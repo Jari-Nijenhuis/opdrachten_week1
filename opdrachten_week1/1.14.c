@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <math.h>
 
-
+/*
 void main()
 {
 	int INPUT, OUTPUT, macht;
@@ -15,4 +15,4 @@ void main()
 	OUTPUT = pow(INPUT,macht);
 
 	printf("\nUitkomst %d", OUTPUT);
-}
+}*/
