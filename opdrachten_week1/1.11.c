@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-/*
+
 void main()
 {
 	int a, b, gcd, rest;
@@ -26,4 +26,4 @@ void main()
 
 	printf("Grooste gene deler is %d en rest is %d", gcd, rest);
 
-}*/
+}
