@@ -3,14 +3,14 @@
 /*
 void main()
 {
-	int InpuntSec ,uur, min, sec;
+	int InputeSec ,uur, min, sec;
 
 	printf("Geef aantal seconden: ");
-	scanf("%d", &InpuntSec);
+	scanf("%d", &InputeSec);
 
-	uur = InpuntSec / 3600;
-	min = (InpuntSec % 3600)/60;
-	sec = (InpuntSec % 3600 % 60);
+	uur = InputeSec / 3600;
+	min = (InputeSec % 3600)/60;
+	sec = (InputeSec % 3600 % 60);
 
 	printf("Tijd in uren %d minuten %d seconden %d", uur, min, sec);
 
