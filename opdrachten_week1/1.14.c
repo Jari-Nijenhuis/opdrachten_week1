@@ -15,4 +15,6 @@ void main()
 	OUTPUT = pow(INPUT,macht);
 
 	printf("\nUitkomst %d", OUTPUT);
+
+	ik snap het niet meer
 }*/
