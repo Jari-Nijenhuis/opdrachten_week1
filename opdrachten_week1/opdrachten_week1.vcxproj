@@ -142,6 +142,9 @@
     <ClCompile Include="1.8.c" />
     <ClCompile Include="1.9.c" />
     <ClCompile Include="voorbeeld_week3.c" />
+    <ClCompile Include="voorbeeld_week4.c" />
+    <ClCompile Include="voorbeeld_week5.c" />
+    <ClCompile Include="voorbeeld_week6.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

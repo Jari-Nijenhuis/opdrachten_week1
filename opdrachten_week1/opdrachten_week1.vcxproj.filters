@@ -60,5 +60,14 @@
     <ClCompile Include="voorbeeld_week3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="voorbeeld_week4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="voorbeeld_week5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="voorbeeld_week6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
